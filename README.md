@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/movie-app">
+  <a href="https://github.com/albertboyd/movie-app">
     <img src="assets/logo.png" alt="cryptoket" width="200" height="50">
   </a>
 
